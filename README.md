@@ -49,6 +49,6 @@
 - Использование Postman
 - Уверенная работа с REST
 
-## 📎 Дополнительно
-- [Swagger Petstore (v2 API)](https://petstore.swagger.io/)
-- Коллекция Postman
+## 🔄 Коллекции Postman
+В директории [`postman/`](https://github.com/Irina-Arma/swagger-petstore-api-testing/tree/main/postman) находятся экспортированные коллекции и окружения:
+- [SwaggerPetstore_collection.json](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/main/postman/Swagger%20Petstore.postman_collection.json) — основной набор запросов
