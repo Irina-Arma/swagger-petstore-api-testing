@@ -31,7 +31,7 @@
 | Bug-002 | Можно создать заказ с неверным типом данных (complete ≠ boolean)        | Major       | High       |
 | Bug-003 | API авторизует несуществующего пользователя (200 OK вместо 404)         | Critical    | High       |
 
-📄 Полные баг-репорты: [`BugReports_SwaggerPetstore.pdf`](docs/BugReports_SwaggerPetstore.pdf)
+📄 Полные баг-репорты: [`BugReports_SwaggerPetstore.pdf`](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/main/BugReports_Swagger%20Petstore.pdf)
 
 ## 📄 Тест-кейсы
 Содержат:
