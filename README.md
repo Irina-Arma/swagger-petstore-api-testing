@@ -40,7 +40,7 @@
 - Статус (Passed / Failed)
 - Ссылки на соответствующие баги
 
-📄 Документ: [`TestCases_SwaggerPetstore.pdf`](TestCases_Swagger Petstore.pdf)
+📄 Документ: [`TestCases_SwaggerPetstore.pdf`](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/main/TestCases_Swagger%20Petstore.pdf)
 
 ## 💼 Навыки, продемонстрированные в проекте
 - Проектирование тест-кейсов по API
