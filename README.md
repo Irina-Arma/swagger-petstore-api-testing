@@ -26,7 +26,7 @@
 
 ## 📄 Документация
 - 📋 [Тест-кейсы](docs/TestCases_SwaggerPetstore.pdf)
-- 🐞 [Баг-репорты](docs/BugReports_Swagger Petstore.pdf) 
+- 🐞 [Баг-репорты]([docs/BugReports_Swagger Petstore.pdf](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/4acfc018db38f50e593c5e99486a79485a6ef62b/docs/BugReports_Swagger%20Petstore.pdf)) 
 
 
 ## 🐞 Найденные баги
