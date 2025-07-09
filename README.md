@@ -25,8 +25,8 @@
 - Примеры неправильного поведения API (например, 200 OK при ошибках)
 
 ## 📄 Документация
-- 📋 [Тест-кейсы](docs/TestCases_SwaggerPetstore.pdf)
-- 🐞 [Баг-репорты]([docs/BugReports_Swagger Petstore.pdf](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/4acfc018db38f50e593c5e99486a79485a6ef62b/docs/BugReports_Swagger%20Petstore.pdf)) 
+- 📋 [Тест-кейсы](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/34d8882b604c8eab1ddbbb41650b8198bc4b92d8/docs/TestCases_Swagger%20Petstore.pdf)
+- 🐞 [Баг-репорты](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/4acfc018db38f50e593c5e99486a79485a6ef62b/docs/BugReports_Swagger%20Petstore.pdf)
 
 
 ## 🐞 Найденные баги
@@ -36,7 +36,7 @@
 | Bug-002 | Можно создать заказ с неверным типом данных (complete ≠ boolean)        | Major       | High       |
 | Bug-003 | API авторизует несуществующего пользователя (200 OK вместо 404)         | Critical    | High       |
 
-📄 Полные баг-репорты: [`BugReports_SwaggerPetstore.pdf`](docs/BugReports_Swagger Petstore.pdf)
+📄 Полные баг-репорты: [`BugReports_SwaggerPetstore.pdf`](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/4acfc018db38f50e593c5e99486a79485a6ef62b/docs/BugReports_Swagger%20Petstore.pdf)
 
 ## 📄 Тест-кейсы
 Содержат:
@@ -45,7 +45,7 @@
 - Статус (Passed / Failed)
 - Ссылки на соответствующие баги
 
-📄 Документ: [`TestCases_SwaggerPetstore.pdf`](docs/TestCases_Swagger Petstore.pdf)
+📄 Документ: [`TestCases_SwaggerPetstore.pdf`](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/34d8882b604c8eab1ddbbb41650b8198bc4b92d8/docs/TestCases_Swagger%20Petstore.pdf)
 
 ## 💼 Навыки, продемонстрированные в проекте
 - Проектирование тест-кейсов по API
