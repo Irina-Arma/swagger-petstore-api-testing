@@ -31,7 +31,7 @@
 | Bug-002 | Можно создать заказ с неверным типом данных (complete ≠ boolean)        | Major       | High       |
 | Bug-003 | API авторизует несуществующего пользователя (200 OK вместо 404)         | Critical    | High       |
 
-📄 Полные баг-репорты: [`BugReports_SwaggerPetstore.pdf`](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/7a78f6812e77977d1251dede9fbe3c78c8e4c27b/docs/BugReports_Swagger%20Petstore.pdf)
+📄 Полные баг-репорты: [`BugReports_SwaggerPetstore.pdf`](docs/BugReports_Swagger Petstore.pdf)
 
 ## 📄 Тест-кейсы
 Содержат:
@@ -40,7 +40,7 @@
 - Статус (Passed / Failed)
 - Ссылки на соответствующие баги
 
-📄 Документ: [`TestCases_SwaggerPetstore.pdf`](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/7a78f6812e77977d1251dede9fbe3c78c8e4c27b/docs/TestCases_Swagger%20Petstore.pdf)
+📄 Документ: [`TestCases_SwaggerPetstore.pdf`](docs/TestCases_Swagger Petstore.pdf)
 
 ## 💼 Навыки, продемонстрированные в проекте
 - Проектирование тест-кейсов по API
@@ -49,5 +49,5 @@
 - Использование Postman
 
 ## 🔄 Коллекции Postman
-В директории [`postman/`](https://github.com/Irina-Arma/swagger-petstore-api-testing/tree/main/postman) находятся экспортированные коллекции и окружения:
-- [SwaggerPetstore_collection.json](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/main/postman/Swagger%20Petstore.postman_collection.json) — основной набор запросов
+В директории [`postman/`](postman) находятся экспортированные коллекции и окружения:
+- [SwaggerPetstore_collection.json](postman/Swagger Petstore.postman_collection.json) — основной набор запросов
