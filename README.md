@@ -55,4 +55,4 @@
 
 ## 🔄 Коллекции Postman
 В директории [`postman/`](postman) находятся экспортированные коллекции и окружения:
-- [SwaggerPetstore_collection.json](postman/Swagger Petstore.postman_collection.json) — основной набор запросов
+- [Swagger Petstore.postman_collection.json](https://github.com/Irina-Arma/swagger-petstore-api-testing/blob/26ca493f0a0f1b5ec1d8139d243fcc68464a94e3/postman/Swagger%20Petstore.postman_collection.json) — основной набор запросов
